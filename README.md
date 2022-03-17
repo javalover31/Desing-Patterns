@@ -2,7 +2,7 @@
 Creational design pattern, Structural design pattern and Behavioral Design pattern
 
 Creational Pattern:
-Factory Pattern  Design Pattern - Factory Pattern (tutorialspoint.com)
+Factory Pattern  Design Pattern - Factory Pattern (tutorialspoint.com)<br>
 Abstract Factory Pattern  Design Pattern - Abstract Factory Pattern (tutorialspoint.com)
 Singleton Design Pattern  https://www.geeksforgeeks.org/java-singleton-design-pattern-practices-examples/?ref=lbp
 Prototype https://www.javatpoint.com/prototype-design-pattern
